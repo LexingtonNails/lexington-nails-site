@@ -1,3 +1,4 @@
+<img src="/logo.png" alt="Lexington Exclusive Nails and Spa Logo" width="150" />
 
 # Lexington Exclusive Nails and Spa
 
